@@ -198,7 +198,7 @@
     <message>
         <location filename="../mainwindow.cpp" line="383"/>
         <source>New Tab From &amp;Preset</source>
-        <translation>Ny fane fra &amp;forhåndstinnstilling</translation>
+        <translation>Ny fane fra &amp;forhåndsinnstilling</translation>
     </message>
     <message>
         <location filename="../mainwindow.cpp" line="384"/>
